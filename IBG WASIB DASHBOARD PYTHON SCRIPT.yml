@@ -24,4 +24,4 @@ jobs:
 
   
     - name: Run Python Script
-      run: https://github.com/rakshayengineer/AUTO_UPDATE_GOOGLE_SHEET_WASIB/blob/main/IBG%20WASIB%20DASHBOARD%20PYTHON%20SCRIPT.ipynb  # Replace with the path to your script
+      run: C:\Users\rse703589\IBG WASIB DASHBOARD PYTHON SCRIPT.ipynb # Replace with the path to your script
